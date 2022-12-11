@@ -24,7 +24,7 @@
 
 ### How to write Test
 * Add new spec under `test-reqres-api` folder
-* Name the file as <testname>.e2e.js (e.g. deleteTest.js)
+* Add file and name the file as testname.js (e.g. deleteTest.js)
 
 ### How to Run Test
 * Go to Project root directory and run command: `npm test`
