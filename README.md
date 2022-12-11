@@ -4,7 +4,7 @@
 ---
 
 :Star: the project if you like the work.
-## ![GitHub Repo stars](https://img.shields.io/github/stars/codewithmmak/supertest-mocha-chai-javascript?style=social)
+## ![GitHub Repo stars](https://img.shields.io/github/stars/codewithmmak/supertest-mocha-chai-javascript?style=social) the project if you like the work.
 
 ## Getting started
 
