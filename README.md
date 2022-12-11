@@ -3,7 +3,7 @@
 <img src="assets/API-Testing-using-SuperTest-Mocha-Chai-and-FakerJS.png"/>
 ---
 
-## :Star: the project if you like the work.
+:Star: the project if you like the work.
 
 ## Getting started
 
