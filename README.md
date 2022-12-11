@@ -1,5 +1,5 @@
 ---
-# API Testing using SuperTest, Mocha, and Chai
+# API Testing using SuperTest, Mocha, Chai, and FakerJS
 <img src="assets/API-Testing-using-SuperTest-Mocha-Chai-and-FakerJS.png"/>
 ---
 
@@ -34,12 +34,12 @@
 * Go to Project root directory and run command: `npm update`
 
 ### How to view HTML report
-* Go to Project root directory: `./allure-results/index.html`
+* Go to Project root directory: `./mochawesome-report/mochawesome.html`
 
 ### Sample Test Results
-![WebDriverIO and JavaScript Test Report](./assets/Allure-Report.png?raw=true "WebDriverIO and JavaScript Test Report")
+![API Testing using SuperTest, Mocha, Chai, and FakerJS Test Report](./assets/mochawesome-report.PNG?raw=true "API Testing using SuperTest, Mocha, Chai, and FakerJS Test Report")
 
-![WebDriverIO and JavaScript Test Report Expanded View](./assets/Allure-Report-Detailed-View.png?raw=true "WebDriverIO and JavaScript Test Report Expanded View")
+![API Testing using SuperTest, Mocha, Chai, and FakerJS Test Report Expanded View](./assets/mochawesome-report-expanded-view.PNG?raw=true "API Testing using SuperTest, Mocha, Chai, and FakerJS Test Report Expanded View")
 
 ## :thought_balloon: Checkout the blogs related to Software Testing on my [website]
 [website]: https://www.codewithmmak.com/
