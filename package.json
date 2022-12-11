@@ -1,0 +1,28 @@
+{
+  "name": "supertest-mocha-chai-javascript",
+  "version": "1.0.0",
+  "description": "This is a sample API Test Automation framework designed using SuperTest, Mocha, Chai, and FakerJS. And in this framework we will see some basic working examples for learning.",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf ./mochawesome-report",
+    "test": "npm run clean && mocha ./test-reqres-api --reporter spec --reporter mochawesome --timeout 5000",
+    "test-fakerest": "npm run clean && mocha ./test-fakerest-api --reporter spec --reporter mochawesome --timeout 5000",
+    "test-conf": "mocha --config=.mocharc.json"
+  },
+  "keywords": [
+    "supertest",
+    "mocha",
+    "chai",
+    "mochawesome"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "mochawesome": "^7.1.3",
+    "rimraf": "^3.0.2",
+    "supertest": "^6.3.1"
+  }
+}
