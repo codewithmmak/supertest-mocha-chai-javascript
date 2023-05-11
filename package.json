@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^7.6.0",
+    "@faker-js/faker": "^8.0.0",
     "chai": "^4.3.7",
     "mocha": "^10.2.0",
     "mochawesome": "^7.1.3",
